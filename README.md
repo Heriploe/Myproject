@@ -1,5 +1,5 @@
-# pokemmoBred
-Feature: form 5v pokemon breding tree   
+# pokemmoBreed
+Feature: form 5v pokemon breeding tree   
 
 requirements：numpy、cv2  
 You may change following sentences in main.py：
